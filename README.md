@@ -1,7 +1,7 @@
 <h1><i>17 Year old, very miserable CGSI devloper (I port oems too....)</i></h1>
 
 <h1 align="center">Hi 👋, I'm isg32 (A.K.A. Sapan Gajjar)</h1>
-<h3 align="center">An on the way developer from India
+<h3 align="center">A tiny developer from India
 <br>And I'm Official MYUi Maintainer for Device - hanoip. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isg32&label=Profile%20views&color=0e75b6&style=flat" alt="isg32" /> </p>
