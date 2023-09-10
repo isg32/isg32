@@ -1,21 +1,25 @@
-<h1><i>17 Year old, very miserable CGSI devloper (I port oems too....)</i></h1>
+# Hello!
+I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
 
-<h1 align="center">Hi 👋, I'm isg32 (A.K.A. Sapan Gajjar)</h1>
-<h3 align="center">A tiny developer from India
-<br>And An Official MYUi Maintainer for Device - hanoip. </h3>
-<h4>Here is My MYUi-Custom Rom Page Link: https://cumyui.github.io</h4>
+## Projects
+* [MYUi Firmware Port/s](https://cumyui.github.io), for Moto G40f/60 which is Motorola's Custom software.
+* [Personal Website](https://isg32.github.io), that I have made as My first big achivement in Coding.
+* [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)
+* Vid-Src CLI Program for [Python](https://github.com/isg32/vidsrc) and [shell](https://github.com/isg32/vidsrc-shell), its initial build of the above website.
+* [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isg32&label=Profile%20views&color=0e75b6&style=flat" alt="isg32" /> </p>
-
+## Status
 - 🔭 I’m currently working on [Flutter + IoT](https://github.com/isg32/FlutterIoT_repo)
 
-- 🌱 I’m currently learning **Flutter, Shell, Machine Learning**
+- 🌱 I’m currently learning **Flutter, Shell, Machine Learning, AI**
 
 - 👨‍💻 All of my projects are available at [https://isg32.github.io/projects/](https://isg32.github.io/projects/)
 
 - 📝 I sometimes write articles on [https://isg32.github.io/content/blog.html](https://isg32.github.io/content/blog.html)
 
 - 📫 How to reach me **sapangajjar101105@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isg32&label=Profile%20views&color=0e75b6&style=flat" alt="isg32" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
