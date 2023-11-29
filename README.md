@@ -20,9 +20,6 @@ I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
 - 📫 How to reach me **sapangajjar101105@gmail.com**
 
 
-![](https://github-profile-trophy.vercel.app/?username=isg32)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isg32&label=Profile%20views&color=0e75b6&style=flat" alt="isg32" /> </p>
 
 <h3 align="left">Connect with me:</h3>
