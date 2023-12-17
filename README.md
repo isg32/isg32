@@ -3,6 +3,7 @@ I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
 
 ## Projects
 * [MYUi Firmware Port/s](https://cumyui.github.io), for Moto G40f/60 which is Motorola's Custom software.
+* [Movie Search and Streaming Service](https://github.com/isg32/vidsrc-streamlit/), a project I made in python with Streamlit as front end.
 * [Wallpaper Designs](https://cumyui.github.io/wallpapers), I design these for Fun.
 * [Personal Website](https://isg32.github.io), that I have made as My first big achivement in Coding.
 * [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)
