@@ -10,6 +10,9 @@ I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
 * Vid-Src CLI Program for [Python](https://github.com/isg32/vidsrc) and [shell](https://github.com/isg32/vidsrc-shell), its initial build of the above website.
 * [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available.
 
+<a href="https://quine.sh/profile/isg32"><img src="https://stats.quine.sh/isg32/github" alt="isg32's GitHub stats" width="840px"></a>
+
+
 ## Status
 - 🔭 I’m currently working on [Flutter + IoT](https://github.com/isg32/FlutterIoT_repo)
 
