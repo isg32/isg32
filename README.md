@@ -1,22 +1,7 @@
 # Hello!
 I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
 
-## Projects
-* [MYUi Firmware Port/s](https://cumyui.github.io), for Moto G40f/60 which is Motorola's Custom software.
-* [Movie Search and Streaming Service](https://github.com/isg32/vidsrc-streamlit/), a project I made in python with Streamlit as front end.
-* [Wallpaper Designs](https://cumyui.github.io/wallpapers), I design these for Fun.
-* [Personal Website](https://isg32.github.io), that I have made as My first big achivement in Coding.
-* [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)
-* Vid-Src CLI Program for [Python](https://github.com/isg32/vidsrc) and [shell](https://github.com/isg32/vidsrc-shell), its initial build of the above website.
-* [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available.
-
-<a href="https://quine.sh/profile/isg32"><img src="https://stats.quine.sh/isg32/github" alt="isg32's GitHub stats" width="840px"></a>
-
-
 ## Status
-- 🔭 I’m currently working on [Flutter + IoT](https://github.com/isg32/FlutterIoT_repo)
-
-- 🌱 I’m currently learning **Flutter, Shell, Machine Learning, AI**
 
 - 👨‍💻 All of my projects are available at [https://isg32.github.io/projects/](https://isg32.github.io/projects/)
 
@@ -24,6 +9,10 @@ I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
 
 - 📫 How to reach me **sapangajjar101105@gmail.com**
 
+## Highligts
+* [Movie Search and Streaming Service](https://github.com/isg32/vidsrc-streamlit/), a project I made in python with Streamlit as front end.
+* [Personal Website](https://isg32.github.io), that I have made as My first big achivement in Coding.
+* [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isg32&label=Profile%20views&color=0e75b6&style=flat" alt="isg32" /> </p>
 
