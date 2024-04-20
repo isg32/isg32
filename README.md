@@ -1,5 +1,7 @@
 ## Highlights
 * [Movie Search and Streaming Service](https://github.com/isg32/vidsrc-streamlit/), a project I made in python with Streamlit as front end.
+* [Phind Ai Powered Data Miner](https://github.com/isg32/paid-detector), a project I made in collab with a well known youtuber [@bugswriter](https://github.com/bugswriter) for a job.
+* [Vidsrc Desktop App](https://github.com/isg32/videosauce), first windows application I made to binge movies/tvshows out of boredom.
 * [Personal Website](https://isg32.github.io), that I have made as My first big achivement in Coding.
 * [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a Semi-P1R@(Y website that is supposedly legal ;)
 
