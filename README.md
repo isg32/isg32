@@ -5,6 +5,8 @@
 * [Personal Website](https://isg32.github.io), that I have made as My first big achivement in Coding.
 * [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a Semi-P1R@(Y website that is supposedly legal ;)
 
+[ Official Maintainer of PixelStar - Device: Hanoip ] [>>](https://t.me/pixelstarchannel/217)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sapangajjar101105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
