@@ -3,6 +3,7 @@
 * [Phind Ai Powered Data Miner](https://github.com/isg32/paid-detector), a project I made in collab with a well known youtuber [@bugswriter](https://github.com/bugswriter) for a job.
 * [Vidsrc Desktop App](https://github.com/isg32/videosauce), first windows application I made to binge movies/tvshows out of boredom.
 * [Personal Website](https://isg32.github.io), that I have made as My first big achivement in Coding.
+* [Personal Website Mirror](https://isg32.codeberg.page/), mirror for the above.
 * [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a Semi-P1R@(Y website that is supposedly legal ;)
 
 [ Official Maintainer of PixelStar - Device: Hanoip ] [>>](https://t.me/pixelstarchannel/217)
