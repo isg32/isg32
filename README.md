@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/sapangajjar101105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
 <a href="https://instagram.com/kahaan.ho.sapan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kahaan.ho.sapan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@isg32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@isg32" height="30" width="40" /></a>
+<a href="https://codeberg.org/isg32" target="blank"><img align="center" src="https://design.codeberg.org/logo-kit/icon_inverted.svg" alt="" height='30' width='30'></a>
 <a href="https://xdaforums.com/m/gajjar01.11027239/" target="blank"><img align="center" src="https://xdaforums.com/data/assets/logo/xda-white-text.png" alt="https://xdaforums.com/m/gajjar01.11027239/" height="30" width="100" /></a>
 </p>
 
