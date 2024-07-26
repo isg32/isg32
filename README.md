@@ -6,7 +6,7 @@
 * [Personal Website Mirror](https://isg32.codeberg.page/), mirror for the above.
 * [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a Semi-P1R@(Y website that is supposedly legal ;)
 
-[ Official Maintainer of PixelStar - Device: Hanoip ] [>>](https://t.me/pixelstarchannel/217)
+[ Ex. PixelStar maintainer - Device: Hanoip ] [>>](https://t.me/pixelstarchannel/217)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
