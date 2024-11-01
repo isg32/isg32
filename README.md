@@ -6,7 +6,7 @@
 * [Personal Website Mirror](https://isg32.codeberg.page/), mirror for the above.
 * [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a Semi-P1R@(Y website that is supposedly legal ;)
 
-[ Ex. PixelStar maintainer - Device: Hanoip ] [>>](https://t.me/pixelstarchannel/217)
+> First nigga to Boot Android 15 on 4.14.xxx @ sm6150/7150AC Moto/Pixel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
