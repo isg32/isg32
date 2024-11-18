@@ -8,6 +8,8 @@
 
 > First nigga to Boot Android 15 on 4.14.xxx @ sm6150/7150AC Moto/Pixel
 
+[![An image of @isg32's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isg32)](https://holopin.io/@isg32)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sapangajjar101105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
