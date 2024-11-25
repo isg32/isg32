@@ -20,3 +20,9 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isg32&label=Profile%20views&color=0e75b6&style=flat" alt="isg32" /> </p>
+
+# Stats
+
+![isg32's Stats](https://github-readme-stats.vercel.app/api?username=isg32&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![isg32's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isg32&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![isg32's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isg32&theme=vue-dark&hide_border=true)
